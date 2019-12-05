@@ -16,5 +16,5 @@
 
 前端过程文件放在`web`文件夹里
 
-# 阅览我们的[作品](https://github.com/Bingxin2779/Python-Group-01/blob/master/demo/WebPage-demo.html)
+# 阅览我们的[作品](demo/WebPage-demo.html)
 
