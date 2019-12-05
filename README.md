@@ -1,15 +1,18 @@
 # Python-Group-01
 
-+ 请先在`dev`分支完成工作，定期`merge`
+本项目实现的功能：
 
-+ `src`文件夹放置爬虫程序和数据
++ A...
 
-+ `web`文件夹放置网页的相关内容
++ B...
 
-> 样例文件放在`demo`文件夹里，大家可以参考：
++ C...
+
+爬虫过程文件放在`scr`文件夹里：
 > - py文件是python爬虫代码；
-> - csv文件是爬虫结果文件（房源信息）；
-> - html是最终网页的代码。
+> - csv文件是爬虫结果文件（房源信息）。
 
-# 阅览我们的[作品](https://bingxin2779.github.io/Python-Group-01/)
+前端过程文件放在`web`文件夹里
+
+# 阅览我们的[作品](https://github.com/Bingxin2779/Python-Group-01/blob/master/demo/WebPage-demo.html)
 
